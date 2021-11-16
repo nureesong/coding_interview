@@ -1,3 +1,7 @@
+'''
+Linked List 클래스 구현하기
+'''
+
 class Node:
     def __init__(self, data):
         self.data = data
